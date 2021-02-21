@@ -1,0 +1,9 @@
+abc,3,xyz
+abc,3,xyzs
+abc,3,xyzz
+abc,3,xyz
+abc,3,xyza
+abc,1,1000,xyz
+abc,1,-100,xyz
+abc,3,xyz
+abc,3,xyzw

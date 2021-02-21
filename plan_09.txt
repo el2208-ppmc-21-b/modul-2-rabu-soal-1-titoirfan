@@ -1,0 +1,11 @@
+abc,1,-100,xyz
+abc,2,-100,xyz
+abc,1,0.005,xyz
+abc,1,0.035,xyz
+abc,2,0.005,xyz
+abc,2,0.025,xyz
+ac,2,-100,xy
+abc,3,xyz
+acb,2,-100,
+abc,1,5,xyz
+abc,3,xyz

@@ -1,0 +1,7 @@
+abc,1,3.5,xyz
+abc,2,-4,xyz
+abc,3,xyz
+abc,1,1.5,xyz
+abc,3,xyz
+bc,2,-4,xy
+abc,3,xyz
