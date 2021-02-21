@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "01",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "plan_01.txt",
+      "output": "Drone mengambil gambar pada titik (3.50, -4.00)\r\nDrone mengambil gambar pada titik (5.00, -4.00)\r\nDrone mengambil gambar pada titik (5.00, -4.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "02",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_02.txt",
+      "output": "Drone mengambil gambar pada titik (0.00, 0.00)\r\nDrone mengambil gambar pada titik (1.00, -2.00)\r\nDrone mengambil gambar pada titik (1.00, 1.00)\r\nDrone mengambil gambar pada titik (1.00, 4.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "03",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_03.txt",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "04",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_04.txt",
+      "output": "Drone mengambil gambar pada titik (0.00, 0.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "05",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_05.txt",
+      "output": "Drone mengambil gambar pada titik (1.00, 1.00)\r\nDrone mengambil gambar pada titik (1.00, 1.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "06",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_06.txt",
+      "output": "Drone mengambil gambar pada titik (90.00, 1.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "07",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_07.txt",
+      "output": "Drone mengambil gambar pada titik (0.00, 0.00)\r\nDrone mengambil gambar pada titik (0.00, 0.00)\r\nDrone mengambil gambar pada titik (900.00, 0.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "08",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_08.txt",
+      "output": "Drone mengambil gambar pada titik (9.00, 9.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "09",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_09.txt",
+      "output": "Drone mengambil gambar pada titik (-99.96, -99.97)\r\nDrone mengambil gambar pada titik (-94.96, -99.97)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "",
+      "run": "./soal-01",
+      "input": "plan_10.txt",
+      "output": "Drone mengambil gambar pada titik (0.00, 0.00)\r\nDrone mengambil gambar pada titik (0.00, -100.00)\r\nDrone mengambil gambar pada titik (0.00, 0.00)",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
